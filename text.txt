@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IOS SHUBHAM</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<div class="logo">IOS SHUBHAM</div>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="login.html">Login</a>
+<a href="products.html">Products</a>
+</nav>
+</header>
+
+<section class="hero">
+
+<h1>WELCOME TO IOS SHUBHAM</h1>
+
+<p>
+Buy Digital Products Easily & Securely
+</p>
+
+<a href="products.html" class="btn">
+BUY NOW
+</a>
+
+</section>
+
+<section class="plans">
+
+<div class="card">
+<h2>1 DAY</h2>
+<p>₹29</p>
+<a href="products.html" class="btn2">Select</a>
+</div>
+
+<div class="card">
+<h2>7 DAY</h2>
+<p>₹149</p>
+<a href="products.html" class="btn2">Select</a>
+</div>
+
+<div class="card">
+<h2>30 DAY</h2>
+<p>₹499</p>
+<a href="products.html" class="btn2">Select</a>
+</div>
+
+</section>
+
+<footer>
+
+Telegram : 
+<a href="https://t.me/IOS_HACK_S"> 
+@IOS_HACK_S 
+</a>
+
+</footer>
+
+</body>
+</html>
